@@ -1,0 +1,5 @@
+(library
+ (name Project))
+
+(menhir (modules parser))
+(ocamllex lexer)

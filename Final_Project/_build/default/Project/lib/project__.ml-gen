@@ -1,0 +1,10 @@
+(** @canonical Project.Ast *)
+module Ast = Project__Ast
+
+
+(** @canonical Project.Lexer *)
+module Lexer = Project__Lexer
+
+
+(** @canonical Project.Parser *)
+module Parser = Project__Parser
